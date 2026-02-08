@@ -1,5 +1,5 @@
 flask
+flask-cors
 google-generativeai
 Pillow
-pip install flask-cors
 gunicorn
